@@ -1,0 +1,406 @@
+[
+    {
+        "id": "ABCDE1",
+        "chef_name": "Chef Ahmad",
+        "chef_picture_url": "https://example.com/chef_ahmad.jpg",
+        "chef_bio": "Passionate chef with a love for Afghan cuisine. Dedicated to creating delicious dishes that bring joy to people's lives.",
+        "years_of_experience": 10,
+        "likes": 5000,
+        "chef_recipes": [
+            {
+                "recipe_name": "Afghan Lamb Kebabs",
+                "cooking_method": "Grilled",
+                "rating": 4.8,
+                "ingredients": [
+                    "Lamb meat",
+                    "Onions",
+                    "Garlic",
+                    "Yogurt",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Mantu (Afghan Dumplings)",
+                "cooking_method": "Steamed",
+                "rating": 4.9,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Dough",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Kabuli Pulao",
+                "cooking_method": "Rice Pilaf",
+                "rating": 4.7,
+                "ingredients": [
+                    "Basmati rice",
+                    "Lamb meat",
+                    "Raisins",
+                    "Carrots",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Bolani (Afghan Stuffed Flatbread)",
+                "cooking_method": "Fried",
+                "rating": 4.6,
+                "ingredients": [
+                    "Potatoes",
+                    "Green onions",
+                    "Spices",
+                    "Flatbread dough"
+                ]
+            },
+            {
+                "recipe_name": "Ashak (Afghan Leek Dumplings)",
+                "cooking_method": "Boiled",
+                "rating": 4.8,
+                "ingredients": [
+                    "Leeks",
+                    "Yogurt",
+                    "Mint",
+                    "Garlic",
+                    "Spices"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FGHIJ2",
+        "chef_name": "Chef Bahar",
+        "chef_picture_url": "https://example.com/chef_bahar.jpg",
+        "chef_bio": "Passionate about Afghan culinary traditions and creating memorable dining experiences. Committed to using fresh, local ingredients.",
+        "years_of_experience": 12,
+        "likes": 6500,
+        "chef_recipes": [
+            {
+                "recipe_name": "Biryani-e-Kabuli",
+                "cooking_method": "Rice Dish",
+                "rating": 4.9,
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Raisins",
+                    "Carrots",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Mazamorra",
+                "cooking_method": "Dessert",
+                "rating": 4.8,
+                "ingredients": [
+                    "Corn",
+                    "Milk",
+                    "Cinnamon",
+                    "Sugar"
+                ]
+            },
+            {
+                "recipe_name": "Qabili Palau",
+                "cooking_method": "Rice Pilaf",
+                "rating": 4.7,
+                "ingredients": [
+                    "Basmati rice",
+                    "Lamb meat",
+                    "Raisins",
+                    "Carrots",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Bolani",
+                "cooking_method": "Fried",
+                "rating": 4.6,
+                "ingredients": [
+                    "Potatoes",
+                    "Leeks",
+                    "Spices",
+                    "Flatbread dough"
+                ]
+            },
+            {
+                "recipe_name": "Sheer Khurma",
+                "cooking_method": "Dessert",
+                "rating": 4.9,
+                "ingredients": [
+                    "Vermicelli",
+                    "Milk",
+                    "Nuts",
+                    "Sugar",
+                    "Cardamom"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "KLMNO3",
+        "chef_name": "Chef Zabi",
+        "chef_picture_url": "https://example.com/chef_zabi.jpg",
+        "chef_bio": "A master of Afghan cuisine with a focus on traditional flavors and modern presentation. Creating culinary art that delights the senses.",
+        "years_of_experience": 15,
+        "likes": 7800,
+        "chef_recipes": [
+            {
+                "recipe_name": "Aush Soup",
+                "cooking_method": "Soup",
+                "rating": 4.8,
+                "ingredients": [
+                    "Lamb meat",
+                    "Noodles",
+                    "Beans",
+                    "Tomatoes",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Mantu",
+                "cooking_method": "Steamed",
+                "rating": 4.9,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Dough",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Chapli Kebab",
+                "cooking_method": "Grilled",
+                "rating": 4.7,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Spices",
+                    "Cilantro"
+                ]
+            },
+            {
+                "recipe_name": "Borani Banjan",
+                "cooking_method": "Fried",
+                "rating": 4.6,
+                "ingredients": [
+                    "Eggplant",
+                    "Yogurt",
+                    "Tomatoes",
+                    "Garlic",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Kulcha-e-Nan",
+                "cooking_method": "Flatbread",
+                "rating": 4.8,
+                "ingredients": [
+                    "Flour",
+                    "Yogurt",
+                    "Baking powder",
+                    "Spices"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PQRST4",
+        "chef_name": "Chef Nasrin",
+        "chef_picture_url": "https://example.com/chef_nasrin.jpg",
+        "chef_bio": "Dedicated to preserving the rich culinary heritage of Afghanistan. Creating authentic dishes that tell the story of a culture.",
+        "years_of_experience": 8,
+        "likes": 5500,
+        "chef_recipes": [
+            {
+                "recipe_name": "Afghan Pulao",
+                "cooking_method": "Rice Pilaf",
+                "rating": 4.8,
+                "ingredients": [
+                    "Basmati rice",
+                    "Lamb meat",
+                    "Raisins",
+                    "Carrots",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Bolani",
+                "cooking_method": "Fried",
+                "rating": 4.9,
+                "ingredients": [
+                    "Potatoes",
+                    "Leeks",
+                    "Spices",
+                    "Flatbread dough"
+                ]
+            },
+            {
+                "recipe_name": "Kabob-e-Murgh",
+                "cooking_method": "Grilled",
+                "rating": 4.7,
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Spices",
+                    "Onions"
+                ]
+            },
+            {
+                "recipe_name": "Mantoo",
+                "cooking_method": "Steamed",
+                "rating": 4.6,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Dough",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Qorma-e-Sabzi",
+                "cooking_method": "Stew",
+                "rating": 4.8,
+                "ingredients": [
+                    "Spinach",
+                    "Lamb meat",
+                    "Yogurt",
+                    "Spices"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "UVWXY5",
+        "chef_name": "Chef Farid",
+        "chef_picture_url": "https://example.com/chef_farid.jpg",
+        "chef_bio": "Innovative chef pushing the boundaries of Afghan cuisine. A fusion of tradition and creativity, offering unique flavors and experiences.",
+        "years_of_experience": 20,
+        "likes": 9800,
+        "chef_recipes": [
+            {
+                "recipe_name": "Ashak",
+                "cooking_method": "Steamed",
+                "rating": 4.9,
+                "ingredients": [
+                    "Leeks",
+                    "Yogurt",
+                    "Mint",
+                    "Garlic",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Chapli Kebab",
+                "cooking_method": "Grilled",
+                "rating": 4.8,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Spices",
+                    "Cilantro"
+                ]
+            },
+            {
+                "recipe_name": "Borani Banjan",
+                "cooking_method": "Fried",
+                "rating": 4.7,
+                "ingredients": [
+                    "Eggplant",
+                    "Yogurt",
+                    "Tomatoes",
+                    "Garlic",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Afghan Rice Pudding",
+                "cooking_method": "Dessert",
+                "rating": 4.6,
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Rosewater"
+                ]
+            },
+            {
+                "recipe_name": "Kadoo Borani",
+                "cooking_method": "Fried",
+                "rating": 4.8,
+                "ingredients": [
+                    "Pumpkin",
+                    "Yogurt",
+                    "Spices",
+                    "Garlic"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Z12345",
+        "chef_name": "Chef Leila",
+        "chef_picture_url": "https://example.com/chef_leila.jpg",
+        "chef_bio": "Passionate chef dedicated to the art of Afghan cooking. Bringing authentic flavors and cultural richness to every dish.",
+        "years_of_experience": 14,
+        "likes": 7200,
+        "chef_recipes": [
+            {
+                "recipe_name": "Mantu",
+                "cooking_method": "Steamed",
+                "rating": 4.9,
+                "ingredients": [
+                    "Ground beef",
+                    "Onions",
+                    "Dough",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Qabili Palau",
+                "cooking_method": "Rice Pilaf",
+                "rating": 4.8,
+                "ingredients": [
+                    "Basmati rice",
+                    "Lamb meat",
+                    "Raisins",
+                    "Carrots",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_name": "Kebab-e-Murgh",
+                "cooking_method": "Grilled",
+                "rating": 4.7,
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Spices",
+                    "Onions"
+                ]
+            },
+            {
+                "recipe_name": "Bolani",
+                "cooking_method": "Fried",
+                "rating": 4.6,
+                "ingredients": [
+                    "Potatoes",
+                    "Leeks",
+                    "Spices",
+                    "Flatbread dough"
+                ]
+            },
+            {
+                "recipe_name": "Ashak",
+                "cooking_method": "Steamed",
+                "rating": 4.8,
+                "ingredients": [
+                    "Leeks",
+                    "Yogurt",
+                    "Mint",
+                    "Garlic",
+                    "Spices"
+                ]
+            }
+        ]
+    }
+]
