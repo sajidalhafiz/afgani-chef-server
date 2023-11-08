@@ -5,8 +5,14 @@ const port = 5000;
 const cors = require('cors')
 app.use(cors())
 
+const chefData = require('./data/afganiChef.json')
+
 app.get('/', (req, res) => {
     res.send('AfganiChef Server')
+})
+
+app.get('/chefData', (req, res) => {
+    res.send(chefData)
 })
 
 app.listen(port, () => {
