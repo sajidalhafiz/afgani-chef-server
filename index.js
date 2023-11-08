@@ -15,6 +15,13 @@ app.get('/chefData', (req, res) => {
     res.send(chefData)
 })
 
+app.get('/chefData/:id', (req, res) => {
+    const chefId = req.params.id;
+    const targetChef = chefData.find(chef => chef.id === chefId)
+    const recipes = targetChef ? targetChef.chef_recipes : []
+    res.send(recipes)
+})
+
 app.listen(port, () => {
     console.log(`AfganiChef Server is running from port: ${port}`)
 })
