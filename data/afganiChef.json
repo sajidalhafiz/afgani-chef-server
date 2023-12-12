@@ -2,7 +2,7 @@
     {
         "id": "ABCDE1",
         "chef_name": "Chef Ahmad",
-        "chef_picture_url": "https://example.com/chef_ahmad.jpg",
+        "chef_picture_url": "https://i.ibb.co/sjTnnJn/chef-1.webp",
         "chef_bio": "Passionate chef with a love for Afghan cuisine. Dedicated to creating delicious dishes that bring joy to people's lives.",
         "years_of_experience": 10,
         "likes": 5000,
@@ -70,7 +70,7 @@
     {
         "id": "FGHIJ2",
         "chef_name": "Chef Bahar",
-        "chef_picture_url": "https://example.com/chef_bahar.jpg",
+        "chef_picture_url": "https://i.ibb.co/9NGK1CJ/chef-2.jpg",
         "chef_bio": "Passionate about Afghan culinary traditions and creating memorable dining experiences. Committed to using fresh, local ingredients.",
         "years_of_experience": 12,
         "likes": 6500,
@@ -138,7 +138,7 @@
     {
         "id": "KLMNO3",
         "chef_name": "Chef Zabi",
-        "chef_picture_url": "https://example.com/chef_zabi.jpg",
+        "chef_picture_url": "https://i.ibb.co/FVLYDsL/chef-3.jpg",
         "chef_bio": "A master of Afghan cuisine with a focus on traditional flavors and modern presentation. Creating culinary art that delights the senses.",
         "years_of_experience": 15,
         "likes": 7800,
@@ -205,7 +205,7 @@
     {
         "id": "PQRST4",
         "chef_name": "Chef Nasrin",
-        "chef_picture_url": "https://example.com/chef_nasrin.jpg",
+        "chef_picture_url": "https://i.ibb.co/xsf7RfF/chef-4.webp",
         "chef_bio": "Dedicated to preserving the rich culinary heritage of Afghanistan. Creating authentic dishes that tell the story of a culture.",
         "years_of_experience": 8,
         "likes": 5500,
@@ -271,7 +271,7 @@
     {
         "id": "UVWXY5",
         "chef_name": "Chef Farid",
-        "chef_picture_url": "https://example.com/chef_farid.jpg",
+        "chef_picture_url": "https://i.ibb.co/SdWF3gG/chef-5.jpg",
         "chef_bio": "Innovative chef pushing the boundaries of Afghan cuisine. A fusion of tradition and creativity, offering unique flavors and experiences.",
         "years_of_experience": 20,
         "likes": 9800,
@@ -339,7 +339,7 @@
     {
         "id": "Z12345",
         "chef_name": "Chef Leila",
-        "chef_picture_url": "https://example.com/chef_leila.jpg",
+        "chef_picture_url": "https://i.ibb.co/xjCjfxH/chef-6.jpg",
         "chef_bio": "Passionate chef dedicated to the art of Afghan cooking. Bringing authentic flavors and cultural richness to every dish.",
         "years_of_experience": 14,
         "likes": 7200,
